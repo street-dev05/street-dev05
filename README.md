@@ -1,5 +1,4 @@
-# 🎮 Привіт, я Danil — Початківець Гейм-Розробник!
-<img align="right" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300" alt="Coding">
+# 🎮 Привіт, я Данил — Початківець Гейм-Розробник!
 
 ## 🧠 Про мене
 
@@ -14,6 +13,7 @@
 ## 🚀 Навички
 
 ### 💻 Мови програмування:
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +23,7 @@
 ---
 
 ## 📂 Портфоліо
+
 | Назва | Опис | Технології |
 |------|------|------------|
 | 🎮 **MyFirstGame** *(в розробці)* | Платформер на C++ з фізикою | C++, SFML |
@@ -31,16 +32,8 @@
 
 ---
 
-## 📈 Статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твій_нік&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твій_нік&layout=compact&theme=tokyonight" alt="Top Langs">
-</p>
-
----
-
 ## 📸 Галерея проєктів
+
 <p align="center">
   <img src="https://i.imgur.com/lXgGQKc.png" width="220">
   <img src="https://i.imgur.com/GZsmXMP.png" width="220">
@@ -49,7 +42,8 @@
 
 ---
 
-## 🧩 Цілі на найближчий час:
+## 🎯 Мої цілі:
+
 - 🔧 Освоїти **Unity / Unreal Engine**
 - 🧠 Створити AI в грі
 - 🎨 Зробити анімації персонажів
@@ -58,5 +52,6 @@
 ---
 
 ## 📬 Зв’язок
+
 [![Telegram](https://img.shields.io/badge/Telegram-Написати-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твій_нік)  
 [![Gmail](https://img.shields.io/badge/Gmail-Пошта-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
